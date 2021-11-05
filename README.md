@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HaixiaBi1982
-- 👀 I’m interested in machine learning, image processing and digital health data processing
+- 👋 This is Haixia Bi. I am currently an associate professor/research fellow in Xi'an Jiaotong University.
+- 👀 My research interests include machine learning, image processing and digital health data processing
 - 📫 Pls. reach me at E-mail:haixia.bi@xjtu.edu.cn;  Homepage: https://gr.xjtu.edu.cn/web/haixia.bi
 
 <!---
